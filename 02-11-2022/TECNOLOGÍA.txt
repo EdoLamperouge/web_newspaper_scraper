@@ -1,0 +1,16 @@
+TECNOLOGÍA
+
+Varias modalidades se están llevando en entornos digitales como la red social Tik Tok, como bots que buscan robar la información
+
+Aún queda un mes para que inicie diciembre pero suele suceder que el ambiente navideño se adelanta y la temporada alta del comercio se activa desde ya, razón por la que las estafas incrementan y también se trasladan al espacio digital.
+Las estafas que llegan vía mensajes y ofrecen ofertas de empleo son comunes, y 
+ recientemente ha sido tendencia la misma modalidad en la que se presenta un supuesto gerente Amazon invitando a dirigirse a un enlace.
+Es por ello que hemos consultado algunas recomendaciones para evitar caer en estafas virtuales, de este y otros tipos, y de igual forma, identificar sobre qué señales estar alerta.
+Expertos de la empresa de certificación e inspección Nyce Colombia aconsejaron desconfiar de enlaces con URL acortada, "no sabemos el destino, ni tenemos la certeza de que la página a la que nos lleva cuenta con las medidas de seguridad suficientes", explicaron.
+También recomiendan estar pendientes de mensajes que no están personalizados y tienen frases genéricas como: “Estimado cliente” o “Apreciable cuentahabiente”. Es probable que quien envía el mensaje no sea una entidad verídica.
+De la misma forma indican que se debe esquivar frases como: “Si no responde de inmediato, no podrá eliminar el cargo que acaban de aplicar a su cuenta” o “Evite la suspensión de su cuenta y confirme sus datos personales”. Con esta modalidad es que piden iniciar la sesión en una página falsa 
+El director general de AutenTIC, Luis Miguel González, señaló algunos los escenarios en los que a través de la suplantación de identidad se puede ser víctima de estafa ya sea en el entorno corporativo como el personal. "Uno es el robo de identidad para sacar a su nombre líneas celulares y a partir de allí, solicitar créditos y hasta adquirir obligaciones haciéndose pasar por alguien más. Y otro, es la suplantación de codeudores para tomar pólizas de seguro”, dijo González.
+Sobre la recomendación de utilizar servicios de firma electrónica, Certicámara señaló que las Entidades de Certificación Digital (ECD) logran asociar la identidad de una persona natural o jurídica a un documento electrónico por medio de una firma digital, de tal forma que se asegura la identidad del firmante.
+Además da autenticidad al documento que se firma porque estos no pueden ser alterados después de haber sido firmados a través de un certificado de firma digital, lo cual reduce el riesgo de suplantación y falsificación.
+Y otra ventaja de la certificación digital es que, "blindan los sistemas de pago para proteger la información de sus clientes y/o usuarios en el uso de páginas web, sistemas de pago móviles y en línea a través de las directrices de validación que tienen los certificados de servidor seguro (SSL)", aseguró Certicámara. De esta forma no son solo los usuarios quienes pueden tener un papel activo en la prevención de estafas.
+Finalmente, Camilo Gutiérrez Amaya, jefe del Laboratorio de Investigación de Eset Latinoamérica, explicó cómo funcionan algunas estafas por medio de la popular red social Tik Tok.
